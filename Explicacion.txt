@@ -1,3 +1,5 @@
 Los cambios que he hecho son para que el programa haga lo mismo pero no tenga cosas innecesarias es:
 
 Cambiar los nombres de variables por otros con mas sentido (maximo, suma, media, contadorMaximo) , he eliminado una variable innecesaria (b), he unificado varios bucles en uno solo, he usado for-each para que el código sea más claro y limpio.
+
+El codigo sirve para Buscar el número mayor de un array de números, comprobar si ese número mayor se repite, calcular la media de todos los números y evaluar la media y decir si esta bien o mal
